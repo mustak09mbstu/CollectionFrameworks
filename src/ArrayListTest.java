@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ArrayListDemo {
+public class ArrayListTest {
     public static void main(String[] args){
         ArrayList l=new ArrayList();
         l.add(20);
