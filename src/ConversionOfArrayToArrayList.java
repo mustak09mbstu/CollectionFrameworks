@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ConversionOfArrayToList {
+public class ConversionOfArrayToArrayList {
     public static void main(String[] args) {
 
         /*Initializing object Type Array*/
