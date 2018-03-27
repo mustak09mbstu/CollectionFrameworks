@@ -33,7 +33,7 @@ public class HashtableDemo {
         @Override
         public int hashCode() {
             return i; //i%11 if i>11
-            //return i%9;
+            //return i%9; // If Initial Capacity Defined 9
         }
 
         @Override
